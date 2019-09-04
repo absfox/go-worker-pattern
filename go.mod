@@ -1,4 +1,4 @@
-module github.com/absfox/go-worker-skel
+module github.com/absfox/go-worker-pattern
 
 go 1.12
 
